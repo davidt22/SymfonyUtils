@@ -1,0 +1,35 @@
+{
+    "name" : "DavidTeruel/utilsbundle",
+    "version": "1.0.0-alpha",
+    "description" : "A bundle with some util tools to be used in all symfony projects",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "utils",
+        "email" : "d_teruel@hotmail.com",
+        "homepage": "http://www.davidteruel.es"
+    }],
+    "keywords" : [
+        "utils bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+        "php": ">=5.3",
+        "symfony/framework-bundle": "2.*",
+        "symfony/symfony": "2.*"
+    },
+    "autoload" : {
+        "psr-0" : {
+            "DavidTeruel\\UtilsBundle" : ""
+        }
+    },
+    "target-dir" : "DavidTeruel/UtilsBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "some_version-dev"
+        }
+    }
+}
