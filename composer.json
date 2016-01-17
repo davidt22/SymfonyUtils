@@ -4,7 +4,7 @@
     "description" : "A bundle with some util tools to be used in all symfony projects",
     "type" : "symfony-bundle",
     "authors" : [{
-        "name" : "utils",
+        "name" : "David Teruel Jorge",
         "email" : "d_teruel@hotmail.com",
         "homepage": "http://www.davidteruel.es"
     }],
@@ -28,8 +28,7 @@
     "repositories" : [{
     }],
     "extra" : {
-    "branch-alias" : {
-            "dev-master" : "some_version-dev"
+        "branch-alias" : {
+            }
         }
-    }
 }
