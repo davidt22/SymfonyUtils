@@ -4,7 +4,6 @@ namespace DavidTeruel\UtilsBundle\Controller;
 
 use DavidTeruel\UtilsBundle\Utils\FlashMessage;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
-use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Symfony\Component\EventDispatcher\EventDispatcherInterface;
 use Symfony\Component\EventDispatcher\GenericEvent;
 use Symfony\Component\HttpFoundation\Request;
