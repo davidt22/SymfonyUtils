@@ -25,8 +25,6 @@
         }
     },
     "target-dir" : "DavidTeruel/UtilsBundle",
-    "repositories" : [{
-    }],
     "extra" : {
         "branch-alias" : {
             }
